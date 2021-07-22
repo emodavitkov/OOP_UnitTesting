@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\OOP_UnitTesting.exe
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\obj\Debug\netcoreapp3.1\OOP_UnitTesting.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\obj\Debug\netcoreapp3.1\OOP_UnitTesting.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\obj\Debug\netcoreapp3.1\OOP_UnitTesting.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\obj\Debug\netcoreapp3.1\OOP_UnitTesting.csproj.CopyComplete
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\OOP_UnitTesting\obj\Debug\netcoreapp3.1\OOP_UnitTesting.csproj.CoreCompileInputs.cache

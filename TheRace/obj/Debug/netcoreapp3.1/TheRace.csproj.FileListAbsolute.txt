@@ -1,0 +1,9 @@
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
