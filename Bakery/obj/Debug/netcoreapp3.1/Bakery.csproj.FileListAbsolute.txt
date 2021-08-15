@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

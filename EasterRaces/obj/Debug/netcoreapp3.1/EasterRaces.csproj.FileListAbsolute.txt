@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache

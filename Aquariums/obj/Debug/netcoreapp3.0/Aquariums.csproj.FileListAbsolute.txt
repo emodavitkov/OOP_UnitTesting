@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\A474627\source\repos\OOP_UnitTesting\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
